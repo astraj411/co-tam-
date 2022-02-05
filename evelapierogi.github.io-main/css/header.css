@@ -1,0 +1,61 @@
+@font-face {
+    font-family: aguafina;
+    src: url("../aguafina-script.regular.ttf");
+}
+a{
+    text-decoration: none;
+    color:inherit;
+}
+html,body{
+    margin:0;
+    font-family:  Helvetica;
+    padding:0;
+    box-sizing: border-box;
+    background-image: url("../tlo3.jpg");
+    background-size: auto;
+    scroll-behavior: smooth;
+    
+}
+ul{
+    list-style-type: none;
+    margin-top:25px;
+    padding: 15px;
+    font-family: aguafina, cursive;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+   
+}
+#logo{
+    justify-content: start;
+    margin-left: 30px;
+    font-family: aguafina, cursive ;
+    margin-top: 10px;
+}
+li{
+    display: inline;
+    margin:30px;
+
+    padding: 5px;
+
+}
+li:hover{
+    color:	#FFFDD0;
+
+}
+
+li a{
+    text-decoration: none;
+    color:inherit;
+}
+header{
+    width: initial;
+    color:white;
+    background-color: 	#C2B280;
+    height:100px;
+    position: sticky;
+
+}
+

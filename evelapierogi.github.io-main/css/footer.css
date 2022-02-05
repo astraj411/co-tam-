@@ -1,0 +1,65 @@
+@font-face {
+    font-family: aguafina;
+    src: url("../aguafina-script.regular.ttf");
+}
+
+.footer{
+    width: initial;
+    height: 500px;
+    background-color: #C2B280;
+    padding: 1%;
+}
+
+.Map {
+    float:left;
+    width: 500px;
+    height: 450px;
+    background-color: #C2B280;
+}
+
+.Contact {
+    font-family: aguafina;
+    font-size: 40px;
+    float: left;
+    width: 800px;
+    background-color: #C2B280;
+    padding: 10px;
+    padding-top: 10px;
+    padding-left: 2%;
+    text-align: left;
+}
+
+.Social {
+    float: left;
+    width: 800px;
+    height: 200px;
+    padding: 10px;
+    padding-top: 10px;
+    padding-left: 2%;
+    background-color: #C2B280;
+}
+
+.fb {
+    padding: 10px;
+    width: 40px;
+    height: 40px;
+    float:left;
+    margin: 10px;
+    border: solid 1px black;
+    border-radius: 10%;
+    background-color: aliceblue;
+} 
+
+.ig {
+    padding: 10px;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    float:left;
+    margin: 10px;
+    border: solid 1px black;
+    border-radius: 10%;
+    background-color: aliceblue;
+    
+    
+}

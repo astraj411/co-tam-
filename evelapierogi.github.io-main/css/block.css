@@ -1,0 +1,47 @@
+@font-face {
+    font-family: josefinsans;
+    src: url("../JosefinSans-Regular.ttf");
+}
+
+.blok{
+    width: initial;
+    height: 700px;
+    text-align: center;
+    background-color:rgb(255, 255, 255, 0.3) ;
+  
+    padding:80px;
+    font-size:30px;
+    font-family: josefinsans;
+}
+.menu{
+    width: initial;
+    height: 1000px;
+    background-color:#C2B280;
+    font-size:30px;
+    font-family: josefinsans;
+    padding: 20px;
+    padding-left:40px;
+}   
+h1{
+    text-align: center;
+    font-family: josefinsans;
+}
+.podzial1{
+
+    height:500px;
+    width: 40%;
+    float:left;
+    padding-left: 60px;
+    
+}
+.podzial2{
+    margin-top: 125px;
+    background-image: url("../parowa.png");
+    background-size:cover;
+    height:500px;
+    width: 50%;
+    float: right;
+    padding:20px;
+  
+    
+}
